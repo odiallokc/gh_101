@@ -13,7 +13,7 @@
 
  - Git and Github for R users [link](https://happygitwithr.com/)
  
- - R 4 DS [link](https://r4ds.had.co.nz/index.html)
+ - R4DS [link](https://r4ds.had.co.nz/index.html)
 
  <br>
  
