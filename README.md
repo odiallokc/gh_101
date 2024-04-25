@@ -8,6 +8,7 @@
 <br>
 
 <h3> Books </h3>
+
  - Git and Github for R users [link](https://happygitwithr.com/)
 
  <br>
